@@ -1,4 +1,4 @@
-# telecom-plan-revenue-analysis
+# Megaline: Telecom Plan Revenue Analysis
 
 ## About
 

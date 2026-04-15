@@ -1,5 +1,9 @@
 # telecom-plan-revenue-analysis
 
+## About
+
+A statistical data analysis project for the telecom operator Megaline that determines which prepaid mobile plan (Surf vs. Ultimate) is more profitable. Utilizes hypothesis testing and probability distributions to provide a data-driven marketing recommendation.
+
 ## Technical Highlights
 
 · Statistical Profiling: Aggregated monthly usage data (minutes, SMS, gigabytes) per user to calculate true average revenue per user (ARPU).
